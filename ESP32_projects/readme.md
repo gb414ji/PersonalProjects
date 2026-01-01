@@ -60,18 +60,3 @@ PASSWORD = "Your_WiFi_Password"
 * **Source IP:** The origin of the request.
 * **Protocol:** Currently optimized for TCP/HTTP.
 * **Deep Data:** Complete raw header strings for forensic analysis.
-
----
-
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-**Part of the 2026 "Strong System" Hardware Series.**
-
----
-
-
-<img width="2638" height="1422" alt="image" src="https://github.com/user-attachments/assets/4d217851-ce11-4b18-acfb-1eed46a49fd4" />
