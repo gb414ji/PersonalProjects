@@ -1,8 +1,8 @@
 import machine, time, network, urequests, gc
 
 # --- CONFIG ---
-WIFI_SSID = "₹ange"
-WIFI_PASS = "Happy_890a"
+WIFI_SSID = "SSID"
+WIFI_PASS = "PASSWORD"
 TIME_URL = "http://worldtimeapi.org/api/timezone/Asia/Kolkata"
 
 # --- HARDWARE ---
