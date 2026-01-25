@@ -1,0 +1,18 @@
+ESP32 C3 
+
+. The "Physical" Force Boot
+Sometimes the buttons on these mini boards are a bit finicky. If the standard sequence isn't working, follow this strictly:
+
+Unplug the board from your Mac.
+
+Press and hold the BOOT button (labeled BOOT or 9).
+
+Plug in the USB cable while still holding the button.
+
+Wait 2 seconds, then release the button.
+
+Now try running the command again:
+
+Bash
+
+python3 -m esptool --port /dev/cu.usbmodem1101 --chip esp32c3 erase-flash
